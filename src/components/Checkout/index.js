@@ -7,7 +7,6 @@ const Checkout = ({ cart }) => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // Handle form submission logic
     alert('Booking confirmed!');
   };
 
