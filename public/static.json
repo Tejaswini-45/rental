@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "image": "https://www.istockphoto.com/photo/lifestyle-back-yard-shed-gm1407417136-458639500",
+      "title": "Cozy Cottage",
+      "description": "A cozy cottage in the countryside.",
+      "price": 120
+    },
+    {
+      "id": 2,
+      "image": "https://www.istockphoto.com/essential/photo/europe-modern-complex-of-residential-buildings-gm1165384568-320657672",
+      "title": "Modern Apartment",
+      "description": "A modern apartment in the city center.",
+      "price": 200
+    },
+    {
+      "id": 3,
+      "image": "https://www.istockphoto.com/photo/white-bedroom-overlooking-ocean-gm457977467-457977467",
+      "title": "Beach House",
+      "description": "A beautiful beach house with sea view.",
+      "price": 300
+    }
+  ]
+  
