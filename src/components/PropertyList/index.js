@@ -21,7 +21,7 @@ const PropertyList = ({ addToCart }) => {
       ) : (
         <p>Loading properties...</p>
       )}
-      {property.map(property => (
+      {properties.map(property => (
         <PropertyCard key={property.id} property={property} addToCart={addToCart} />
       ))}
     </div>
