@@ -6,7 +6,7 @@ import './index.css';
 const PropertyList = ({ addToCart }) => {
   return (
     <div className="property-list">
-      {properties.map(property => (
+      {property.map(property => (
         <PropertyCard key={property.id} property={property} addToCart={addToCart} />
       ))}
     </div>
